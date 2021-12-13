@@ -61,8 +61,8 @@ def upload():
 
         # Arrange the correct return according to the model.
 
-        str1 = 'Malaria Detected'
-        str2 = 'NO Malaria Detected'
+        str1 = 'NO Malaria Detected'
+        str2 = 'Malaria Detected'
         if pred[0] == 0:
             return str2
         else:
