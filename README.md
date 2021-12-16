@@ -7,3 +7,6 @@ Give an image from the inputImagesSample folder. Then click on predict button to
 
 Working demo video link:
 https://mailmissouri-my.sharepoint.com/:v:/g/personal/mp8dx_umsystem_edu/EemkafGTanlLoQXRDgZsAJABbVw_DwG6bdvUjLorbymCiQ
+
+DATA SET link:
+https://drive.google.com/file/d/1sytfclmnYhEZSXEGFpA-_s75OLSpUWrQ/view?usp=sharing 
